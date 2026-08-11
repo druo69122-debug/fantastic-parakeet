@@ -1,4 +1,4 @@
-# KuaJingCloud 业务直连规则
+#  业务直连规则
 
 ## 项目用途
 
@@ -14,7 +14,7 @@ KuaJingCloud 可直接订阅的 Raw URL：
 https://raw.githubusercontent.com/druo69122-debug/fantastic-parakeet/main/my-direct.txt
 ```
 
-## KuaJingCloud 添加方式
+##  添加方式
 
 设置  
 → 规则订阅  
