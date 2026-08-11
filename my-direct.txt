@@ -20,3 +20,4 @@ alidocs.dingtalk.com
 apps.microsoft.com
 explore.microsoft.com
 http://168.jinshun5g.cn/login
+localads.chengzijianzhan.cn
