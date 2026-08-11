@@ -19,3 +19,4 @@ alidocs.dingtalk.com
 168.jinshun5g.cn
 apps.microsoft.com
 explore.microsoft.com
+http://168.jinshun5g.cn/login
