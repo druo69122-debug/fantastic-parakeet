@@ -18,3 +18,4 @@ pay.weixin.qq.com
 alidocs.dingtalk.com
 168.jinshun5g.cn
 apps.microsoft.com
+explore.microsoft.com
