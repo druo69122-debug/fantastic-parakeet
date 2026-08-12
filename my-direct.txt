@@ -19,7 +19,7 @@ alidocs.dingtalk.com
 168.jinshun5g.cn
 apps.microsoft.com
 explore.microsoft.com
-http://168.jinshun5g.cn/login
+168.jinshun5g.cn
 localads.chengzijianzhan.cn
 doc.weixin.qq.com
 login.dingtalk.com
