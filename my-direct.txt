@@ -26,3 +26,5 @@ login.dingtalk.com
 loginmyseller.taobao.com
 www.gsxt.gov.cn
 www.12315.cn
+mail.qq.com
+qq.com
