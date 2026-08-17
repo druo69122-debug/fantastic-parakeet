@@ -31,3 +31,4 @@ qq.com
 doc.weixin.qq.com
 www.goofish.com
 www.bilibili.com
+bilibili.com
